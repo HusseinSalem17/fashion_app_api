@@ -1,0 +1,25 @@
+# Ignore Django's internal files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.egg-info/
+
+# Ignor virtual environment files
+venv/
+
+# Ignore Django's project tmp directory
+tmp/
+
+#Ignore Django's cache directory
+*cache*
+
+# Igoner Python's built-in temp directory
+*.pyd
+
+# Ingore Django's logs
+logs/
+
+# Ignore Pycache
+.cache/
